@@ -2,7 +2,7 @@
 
  ## 
 
- <img  src="https://github-readme-stats.vercel.app/api?username=Sajal24&show_icons=true&theme=material-palenight" width="48%" align="right">  
+ <img  src="https://github-readme-stats.vercel.app/api?username=Sajal24&show_icons=true&count_private=true&theme=material-palenight" width="48%" align="right">  
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Sajal24&theme=material-palenight" width="48%"> 
  
 
