@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajal24&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/Sajal24/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajal24&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajal24&repo=%-Vanilla-JS-Projects" />
 </a>
 
 <!-- material-palenight -->
