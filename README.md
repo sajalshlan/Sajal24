@@ -7,6 +7,11 @@
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajal24&theme=material-palenight)](https://github.com/Sajal24/github-readme-stats)
  
- [![Sajal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sajal24&theme=material-palenight)](https://github.com/Sajal24/github-readme-stats)
+ <a href="https://github.com/Sajal24/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajal24&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Sajal24/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sajal24&repo=convoychat" />
+</a>
 
 <!-- material-palenight -->
