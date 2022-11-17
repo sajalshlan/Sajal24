@@ -1,4 +1,4 @@
-<img alt="Sajal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sajal24&theme=nightowl&area=true" width="100%">
+<!-- <img alt="Sajal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sajal24&theme=nightowl&area=true" width="100%"> -->
 
  ## 
  
